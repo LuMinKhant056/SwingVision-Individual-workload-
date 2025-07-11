@@ -1,7 +1,6 @@
 # main_pose_tracking.py
 # Before run, you need to install ultralytics libraries by uisng following Query 
 # You need to create .venv file to ran the project
-# python -m pip install --upgrade pip 
 # install - python -m venv .venv (create venv)
 # install -.venv\Scripts\activate
 # If you remember the libraries you used, install them like this: pip install numpy opencv-python torch ultralytics
